@@ -4,6 +4,8 @@ Spring 2024 (in-progress)
 # Project Recordings
 Lab 1: https://youtu.be/5Bfpjg9ioSw
 
+Lab 2: https://youtu.be/x6n9k8-G7rA
+
 # Course Description
 - Introduction to topics related to computer-aided animation
 - Rigging for forward and inverse kinematics

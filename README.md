@@ -6,6 +6,8 @@ Lab 1: https://youtu.be/5Bfpjg9ioSw
 
 Lab 2: https://youtu.be/x6n9k8-G7rA
 
+Lab 3: https://youtu.be/UnLD2Cgr2yE
+
 # Course Description
 - Introduction to topics related to computer-aided animation
 - Rigging for forward and inverse kinematics

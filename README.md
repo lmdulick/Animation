@@ -14,6 +14,8 @@ Project 1: https://youtu.be/YZbDt1JXcNg
 
 Project 2: https://youtu.be/aie-NCrOR7A
 
+Project 3: https://youtu.be/cFMDbRBOK5E
+
 # Course Description
 - Introduction to topics related to computer-aided animation
 - Rigging for forward and inverse kinematics

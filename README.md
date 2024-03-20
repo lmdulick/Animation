@@ -10,6 +10,8 @@ Lab 3: https://youtu.be/UnLD2Cgr2yE
 
 Lab 4: https://www.youtube.com/watch?v=fQV05ANHG5o
 
+Lab 5: https://youtu.be/aSC0nDPUfAU
+
 Project 1: https://youtu.be/YZbDt1JXcNg
 
 Project 2: https://youtu.be/aie-NCrOR7A
